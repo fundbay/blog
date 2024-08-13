@@ -13,10 +13,10 @@ export default defineUserConfig({
   lang: 'zh-CN',
 
   // 站点的标题
-  title: '博客演示',
+  title: "Tak's Blog",
 
   // 站点的描述
-  description: 'vuepress-theme-hope 的博客演示',
+  description: 'Tak 的个人博客',
 
   /**
    * 主题
