@@ -5,7 +5,7 @@ import sidebar from './sidebar.js';
 
 export default hopeTheme(
   {
-    hostname: 'https://mister-hope.github.io',
+    hostname: 'https://fundbay.github.io/blog',
 
     iconAssets: 'fontawesome-with-brands',
 
@@ -17,7 +17,7 @@ export default hopeTheme(
      * 你可以在主题选项中通过 repoDisplay 控制是否显示仓库按钮。
      */
     // 默认为 GitHub. 同时也可以是一个完整的 URL
-    repo: 'vuepress-theme-hope/vuepress-theme-hope',
+    repo: 'fundbay/blog',
 
     // 自定义仓库链接文字。默认从 `repo` 中自动推断为
     // "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
