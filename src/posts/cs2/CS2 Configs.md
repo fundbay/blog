@@ -47,7 +47,7 @@ tag:
   - CS2
 ---
 
-# CS2 Steam 配置项
+# CS2 Configs
 
 ## 1. 找到游戏目录
 
