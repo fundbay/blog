@@ -70,8 +70,47 @@ tag:
 ```conf
 sensitivity "1.9"
 
+// 显示设置
 r_fullscreen_gamma "3"
+
+// 计分板设置
+cl_teamcounter_playercount_instead_of_avatars "true"
+cl_scoreboard_survivors_always_on "true"
+
+// 左手持枪
+cl_prefer_lefthanded "1"
+switchhandsleft
+
+// 不显示左下角版本信息
+r_show_build_info "0"
+
+// 雷达设置
+cl_hud_radar_background_alpha "0.627"
+cl_hud_radar_map_additive "true"
+cl_hud_radar_scale "1.1"
+cl_radar_always_centered "false"
+cl_radar_rotate "true"
+cl_radar_scale "0.4"
+cl_radar_scale_alternate "1.0"
+
+// 音量控制
+snd_menumusic_volume "0.04"
+snd_roundstart_volume "0.0"
+snd_roundaction_volume "0.0"
+snd_roundend_volume "0.16"
+snd_mvp_volume "0.16"
+snd_mapobjective_volume "0.04"
+snd_tensecondwarning_volume "0.04"
+snd_deathcamera_volume "0.16"
+snd_mute_mvp_music_live_players "false"
+snd_voipvolume "0.5"
+snd_headphone_eq "1"
+snd_mute_losefocus "true"
 speaker_config "2"
+
+// 鼠标控制
+m_pitch "0.022"
+m_yaw "0.022"
 
 // 基础按键绑定
 bind "`" "toggleconsole"
