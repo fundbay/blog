@@ -68,7 +68,7 @@ tag:
 :::
 
 ```conf
-sensitivity "1.9"
+sensitivity "1.67"
 
 // 显示设置
 r_fullscreen_gamma "3"
@@ -188,6 +188,7 @@ cl_crosshairsize "1"
 cl_crosshairstyle "4"
 cl_crosshairthickness "0"
 cl_crosshairusealpha "1"
+cl_crosshair_drawoutline "false"
 
 // 持枪视角
 viewmodel_fov "68"
